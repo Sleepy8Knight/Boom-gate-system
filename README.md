@@ -3,3 +3,4 @@ https://gpiozero.readthedocs.io/en/stable/api_output.html#gpiozero.AngularServo.
 
 -  pytesserect is for me to refer to when making the camera plate scanner
 -  Servo is using values while simple servo uses min/max
+-  the code in time is also in camplatescanner
